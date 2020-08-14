@@ -3,8 +3,8 @@ Tic Tac Toe Player
 
 ###############################
 
-#Builder: Marcos Ribeiro
-#GIT Hub user: marcosbribeiro
+Marcos Ribeiro
+#GITHub user: marcosbribeiro
 
 # 05/15/20
 
